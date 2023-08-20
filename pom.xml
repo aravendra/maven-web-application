@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mudduireddi Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.105.203:8081/repository/maven-releases/</url>
+	      <url>http://13.126.105.203:8081/repository/Muddireddi_release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mudduireddi Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.105.203:8081/repository/maven-snapshots/</url>
+	      <url>http://13.126.105.203:8081/repository/Muddireddi_snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
